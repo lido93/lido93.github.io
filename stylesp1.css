@@ -1,0 +1,24 @@
+.first {
+    background-image: url(ferns.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link {
+    color: teal;
+    font-size: larger;
+    font-weight: 500;
+}
+h1{
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    text-align: center;
+}   
+img {
+    width: 500px;
+}
+h2{
+    color: teal;
+    text-align: center;
+}

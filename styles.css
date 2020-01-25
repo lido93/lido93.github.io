@@ -55,3 +55,6 @@ body {
 p.tacos .big {
     font-size: 48px;
 }
+td {
+    color: white;
+}
