@@ -40,3 +40,8 @@ li{
     background-color: teal;
     border-color: teal;
 }   
+.table .thead-dark th {
+     color:white;
+     background-color: palevioletred;
+     border-color: white;
+}
