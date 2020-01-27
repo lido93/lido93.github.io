@@ -34,4 +34,9 @@ li{
     color: palevioletred ;
     font-weight: 500; 
     text-align: left; 
-}       
+}    
+.btn-primary {
+    color:white;
+    background-color: teal;
+    border-color: teal;
+}   
